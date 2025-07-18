@@ -18,7 +18,7 @@ Welcome to my official business repository.
 
 ---
 
-#👤 About Me
+# 👤 About Me
 **Full name :** Maciej Solak
 **Email :** maciejsolak96@outlook.com
 **Address line 1 :** bld. 6, appt. 13, Avenida Sao Luiz
@@ -29,7 +29,7 @@ Welcome to my official business repository.
 
 ---
 
-#🔭 What I Do
+# 🔭 What I Do
 I'm a freelance software developer providing tailored digital solutions for clients globally. I specialize in:
 - Web development (frontend & backend)
 - Automation and scripting
@@ -38,5 +38,5 @@ I'm a freelance software developer providing tailored digital solutions for clie
 
 ---
 
-#📎 Contact
+# 📎 Contact
 For inquiries or project requests, feel free to reach out via [email](mailto:maciejsolak96@outlook.com) or phone.
